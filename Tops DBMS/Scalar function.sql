@@ -1,8 +1,8 @@
                                                         --------- Scaler Function--------------
 
 
-     set name ="devanshu"
-      where name=" jay "
+     set name ="jay"
+      where name=" Deevanshu "
 
 
 
